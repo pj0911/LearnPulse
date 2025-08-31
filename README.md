@@ -20,9 +20,9 @@ It helps students, educators, and professionals quickly create quizzes and test 
 
 ## 🚀 Live Demo
 
-👉 [LearnPulse](https://learnpulse.streamlit.app)  
+👉 [LearnPulse](https://learnpulse.streamlit.app/)  
 
-*(Replace the link above with your actual Streamlit Cloud / Render deployment URL)*  
+  
 
 ---
 ## 🔧 Setup Instructions
